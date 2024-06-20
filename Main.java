@@ -1,5 +1,8 @@
 /*
  * Test the use of the Color method
+ * @author Ethan Bechner
+ * bechner@wisc.edu
+ * mrethan-cs400
  */
 import java.util.*;
 

@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *      @author Ethan Bechner
+ *      bechner@wisc.edu
+ *      mrethan-cs400
  */
 public class Color{
 	private String color;
